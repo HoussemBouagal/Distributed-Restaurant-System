@@ -1,5 +1,3 @@
-Here’s the corrected and organized text in English:
-
 1-Open the project using Eclipse.
 
 2-Update the image paths to match the file locations on your personal computer.
