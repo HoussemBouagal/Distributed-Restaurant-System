@@ -1,0 +1,30 @@
+Order for 2x Couscous at restaurant La Cuisine confirmed.
+Client details: Full name: BF, Phone number: 444
+Order for 2x Couscous at restaurant La Cuisine confirmed.
+Client details: Full name: BFDD, Phone number: 0554324, Address: FFFFFF
+Order for 2x Couscous at restaurant La Cuisine confirmed.
+Client details: Full name: BF, Phone number: 444, Address: 
+Order for 2x Couscous at restaurant La Cuisine confirmed.
+Client details: Full name: Bouagal houssem, Phone number: 0670414339, Address: DDD
+Order for 2x Couscous at restaurant La Cuisine confirmed.
+Client details: Full name: BD, Phone number: 0444, Address: 
+Order for 2x Couscous at restaurant La Cuisine confirmed.
+Client details: Full name: Bouagal, Phone number: 3333, Address: FFFFF
+Order for 2x Couscous at restaurant La Cuisine confirmed.
+Client details: Full name: BVV, Phone number: 4444, Address: 
+Order for 2x Couscous at restaurant La Cuisine confirmed.
+Client details: Full name: Bouagal Houssem eddine, Phone number: 054324563, Address: C3G
+Order for 3x Couscous at restaurant La Cuisine confirmed.
+Client details: Full name: Aimeur Amina, Phone number: 0670413993,  The delivery address: 
+Order for 2x Couscous at restaurant La Cuisine confirmed.
+Client details: Full name: GGGG, Phone number: 4444, The delivery address: F
+Order for 2x Couscous at restaurant La Cuisine confirmed.
+Client details: Full name: FFF, Phone number: 44444,  The delivery address: E
+Order for 2x Couscous at restaurant La Cuisine confirmed.
+Client details: Full name: Aimeur Amina, Phone number: 0554321223,  The delivery address: 
+Order for 1x Couscous at restaurant La Cuisine confirmed.
+Client details: Full name: Bouagal Houssem Eddine, Phone number: 0660876991,  The delivery address: Nouvelle Ville
+Order for 2x Couscous at restaurant La Cuisine confirmed.
+Client details: Full name: Bouagal Houssem Eddine, Phone number: 0660876991, Delivery address: FFFF
+Order for 2x Dish: Couscous, Price: 800 DA, Ingredients: Semolina, Meat, Vegetables at restaurant La Cuisine confirmed.
+Client details: Full name: BBBB, Phone number: 04444566, Delivery address: FFFF
